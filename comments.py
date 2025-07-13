@@ -1,0 +1,5 @@
+x = int(input("Enter first value: "))
+y = int(input("Enter Second Value: "))
+z = str(input("Enter Develper name: "))
+print('Multiplication: ', x*y)
+print("The Develper of this Program is :", z)
