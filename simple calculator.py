@@ -1,0 +1,9 @@
+x= int(input("input your frist number"))
+y= int(input("input your second number"))
+sum=x+y
+print(f"sum of {x} and {y} = {sum}")
+subtraction=x-y
+print(f"subtraction of{x} from{y} = {subtraction}")
+mutiplication=x*y
+print(f"multiply {x} and {y} = {mutiplication}")
+print(f"divsion {x} and {y} ={x/y} ")
